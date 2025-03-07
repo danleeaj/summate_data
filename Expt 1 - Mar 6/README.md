@@ -1,6 +1,9 @@
 > ⚠️ WARNING
 > There was an issue with this experimental run that resulted in _bad data_.
 
+> UPDATE
+> All temperature runs were set to 0.80. That's why we found no significant data. I'm sorry ._.
+
 #### Experiment 01
 Date: March 6th, 2025
 
