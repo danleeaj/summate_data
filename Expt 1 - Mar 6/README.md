@@ -14,6 +14,8 @@ To determine if temperature has an effect on the variance of the results the aut
 Running a simple linear regression on the variance (IQR) of the evaluations produced by the grader yielded a weak correlation (R squared = 0.0049). This raised some concerns becuase, theoretically, a temperature of 0 would result in the exact same output everytime - meaning no variance. However, we observed variance across the 15 evaluations.
 
 ![alt text](figure.png)
+
+
 Relationship between temperature setting and interquartile range (IQR) of evaluation scores with 15 repeats. Points represent the mean IQR values at each temperature (0.0, 0.2, 0.4, 0.6, 0.8, and 1.0), with error bars showing standard error of mean.
 
 ##### Discussion
