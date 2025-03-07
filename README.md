@@ -4,6 +4,7 @@ Within each of the folders, there is the following:
 * `README.md` containing details of the experiment
 * `data/` directory containing all the outputs of the experiment / Autograder
 * `analysis.ipynb` containing the code to analyze the data
+* `figure.png` containing a figure, if any were made
 
 \* Data is not uploaded to GitHub for privacy concerns. All identifiable factors are removed.
 
