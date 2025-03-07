@@ -11,3 +11,7 @@ Within each of the folders, there is the following:
 ##### Requirements
 * Python >= 3.8
 * Requirements listed in `requirements.txt`
+
+### To-dos:
+* Identify why temperature = 0 evaluations had variance in data.
+* Test responses on a wider spectrum of student responses in terms of grade given by human grader.
