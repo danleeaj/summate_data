@@ -6,7 +6,7 @@ Within each of the folders, there is the following:
 * `analysis.ipynb` containing the code to analyze the data
 * `figure.png` containing a figure, if any were made
 
-\* Data is not uploaded to GitHub for privacy concerns. All identifiable factors are removed.
+\* Data is not uploaded to GitHub for privacy concerns. All potential identifiable factors are removed.
 
 ##### Requirements
 * Python >= 3.8
